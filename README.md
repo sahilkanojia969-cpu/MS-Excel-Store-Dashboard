@@ -131,4 +131,4 @@ This dashboard enables:
 •	Operational performance monitoring
 •	Channel-level growth planning
 
-Screenshot: 
+Screenshot:  https://github.com/sahilkanojia969-cpu/MS-Excel-Store-Dashboard/blob/main/Vrinda%20Store.png
